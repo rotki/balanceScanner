@@ -1,0 +1,2 @@
+vyper==0.4.0
+moccasin==0.3.3
