@@ -1,12 +1,11 @@
-# Moccasin Project
+# rotki balance scanner
 
-🐍 Welcome to your Moccasin project!
+Utility contract to query ether balance and token balances.
 
 ## Quickstart
 
-```bash
-mox init
-mox run deploy
-```
+run tests with 
 
-_For documentation, please run `mox --help` or visit [the Moccasin documentation](https://cyfrin.github.io/moccasin)_
+```
+mox test
+```
