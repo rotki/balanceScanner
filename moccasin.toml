@@ -19,7 +19,31 @@ chain_id = 11155111
 [networks.mainnet]
 url = "https://eth.merkle.io/"
 chain_id = 1
-fork = true
+
+[networks.gnosis]
+url = "https://rpc.gnosischain.com"
+chain_id = 100
+
+[networks.base]
+url = "https://base.llamarpc.com"
+chain_id = 8453
+
+[networks.arbitrum]
+url = "https://arbitrum.llamarpc.com"
+chain_id = 42161
+
+[networks.scroll]
+url = "https://1rpc.io/scroll"
+chain_id = 534352
+
+[networks.polygon]
+url = "https://polygon.llamarpc.com"
+chain_id = 137
+
+[networks.op]
+url = "https://optimism.llamarpc.com"
+chain_id = 10
+
 
 [networks.zksync-sepolia]
 url = "https://sepolia.era.zksync.dev"
