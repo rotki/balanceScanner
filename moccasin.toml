@@ -44,6 +44,26 @@ chain_id = 137
 url = "https://optimism.llamarpc.com"
 chain_id = 10
 
+[networks.kaia]
+url = "https://1rpc.io/klay"
+chain_id = 8217
+
+[networks.kaiatestnet]
+url = "https://kaia-kairos.blockpi.network/v1/rpc/public"
+chain_id = 1001
+
+[networks.fantom]
+url = "https://rpc.fantom.network"
+chain_id = 250
+
+[networks.avax]
+url = "https://avalanche-c-chain-rpc.publicnode.com"
+chain_id = 43114
+
+[networks.binance]
+url = "https://binance.llamarpc.com"
+chain_id = 56
+
 
 [networks.zksync-sepolia]
 url = "https://sepolia.era.zksync.dev"
